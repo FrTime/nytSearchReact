@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://github.com/FrTime/NYT-Search-React",
+  "homepage": "https://github.com/FrTime/nytSearchReact",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001/",
@@ -10,8 +10,6 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
