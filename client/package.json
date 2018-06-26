@@ -1,6 +1,5 @@
 {
   "name": "client",
-  "homepage": "https://github.com/FrTime/nytSearchReact",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001/",
